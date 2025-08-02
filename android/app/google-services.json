@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "241160369734",
+    "project_id": "waslapp-141c4",
+    "storage_bucket": "waslapp-141c4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:241160369734:android:f3191b08a7b929a3b5bc47",
+        "android_client_info": {
+          "package_name": "com.example.untitled"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2OYLmh30hjYzJMDdcKoztKeWXv7xSm5A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
